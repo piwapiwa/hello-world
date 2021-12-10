@@ -1,0 +1,8 @@
+﻿  MathClient.vcxproj -> D:\B20031716\Windows\实验\MathClient\Debug\MathClient.exe
+  复制了 0 个文件
+  '"D:\B20031716\Windows\实验\MathClient\Debug\"' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: 命令“xcopy /y /d "..\..\MathLibrary\Debug\MathLibrary.dll" 
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: "D:\B20031716\Windows\实验\MathClient\Debug\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: 
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(155,5): error MSB3073: :VCEnd”已退出，代码为 9009。
