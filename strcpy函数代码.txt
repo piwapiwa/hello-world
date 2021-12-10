@@ -10,4 +10,4 @@ char* StrCpy(char* src)
     }
     str[len] = '\0';
     return str;
-}//B20031716杨波
+}
